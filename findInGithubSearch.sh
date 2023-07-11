@@ -60,9 +60,15 @@ fi
 # Main program                                             #
 ############################################################
 
+removeFirstLine() {
+  tail -n +2 "$1" >"$1.tmp" && mv "$1.tmp" "$1"
+}
+
 workdir=$(pwd)
 
 "$workdir"/scripts/searchRepo.sh -o tmpSearch.txt -l "$language" "$1"
+
+removeFirstLine tmpSearch.txt
 
 if [ -z "$fileNotToSearch" ]; then
   cat tmpSearch.txt >tmpMerge.txt
@@ -71,6 +77,9 @@ else
 fi
 
 "$workdir"/scripts/finderGithub.sh -j -o tmpFinder.txt tmpMerge.txt
+
+removeFirstLine tmpFinder.txt
+
 "$workdir"/scripts/getName.sh -o tmpNames.txt tmpMerge.txt
 
 python3 "$workdir"/scripts/match_to_csv.py tmpFinder.txt tmpMatch.csv

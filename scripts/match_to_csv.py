@@ -9,7 +9,7 @@ def main(input_file, output_file):
         lines = f.readlines()
 
     output = []
-    i = 1
+    i = 0
     number_of_lines = len(lines)
     output_line = ""
     second_arg = False

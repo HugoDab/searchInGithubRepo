@@ -36,12 +36,6 @@ done
 
 shift "$((OPTIND - 1))"
 
-if [ -z "$1" ] || [ -z "$2" ]; then
-  echo 'Missing file to merge' >&2
-  Help
-  exit 1
-fi
-
 if [ -z "$outputFile" ]; then
   echo 'Missing -o option' >&2
   Help
@@ -56,5 +50,5 @@ touch "$outputFile"
 while read -r repolink; do
   repoTemp=$(echo "$repolink" | cut -d '/' -f 4-5)
   repo=$(echo "$repoTemp" | cut -d '.' -f 1)
-  echo "$repo">>"$2"
+  echo "$repo">>"$outputFile"
 done <"$1"

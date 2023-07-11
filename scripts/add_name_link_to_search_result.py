@@ -33,7 +33,7 @@ def main(name_file, link_file, search_file, output_file):
     if len(searches) != length:
         raise IOError("Search file does not have the same length as name file.")
 
-    output = [names[i] + "," + links[i] + ",," + searches[i] for i in range(length)]
+    output = [names[i][:-1] + "," + links[i][:-1] + ",," + searches[i] for i in range(length)]
 
     with open(output_file, "w") as f:
         f.writelines(output)

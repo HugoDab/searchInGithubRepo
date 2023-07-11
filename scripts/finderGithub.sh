@@ -99,7 +99,7 @@ while read -r repolink; do
   repo=$(echo "$repoTemp" | cut -d '.' -f 1)
 
   echo "======================================="
-  echo "Searching in $repo ~ ($nbLines / $counter)"
+  echo "Searching in $repo ~ ($counter/$nbLines)"
 
   echo "======================================= $repo =======================================" >>"$outputFile"
 

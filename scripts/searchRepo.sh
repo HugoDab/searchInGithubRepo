@@ -60,7 +60,7 @@ echo "All results for Github repositories $1" | tee "$outputFile"
 
 perPage=100
 
-i=0
+i=10
 
 while curl -sL "https://api.github.com/search/repositories?q=${1// /+}+language:$language&per_page=$perPage&page=$i" | jq -r ".items[].html_url" >>"$outputFile" 2>/dev/null; do
   ((i++))
