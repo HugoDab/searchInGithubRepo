@@ -66,24 +66,24 @@ removeFirstLine() {
 
 workdir=$(pwd)
 
-"$workdir"/scripts/searchRepo.sh -o tmpSearch.txt -l "$language" "$1"
+"$workdir"/scripts/bash/searchRepo.sh -o tmpSearch.txt -l "$language" "$1"
 
 removeFirstLine tmpSearch.txt
 
 if [ -z "$fileNotToSearch" ]; then
   cat tmpSearch.txt >tmpMerge.txt
 else
-  "$workdir"/scripts/mergeFile.sh -o tmpMerge.txt tmpSearch.txt "$fileNotToSearch"
+  "$workdir"/scripts/bash/mergeFile.sh -o tmpMerge.txt tmpSearch.txt "$fileNotToSearch"
 fi
 
-"$workdir"/scripts/finderGithub.sh -j -o tmpFinder.txt tmpMerge.txt
+"$workdir"/scripts/bash/finderGithub.sh -j -o tmpFinder.txt tmpMerge.txt
 
 removeFirstLine tmpFinder.txt
 
-"$workdir"/scripts/getName.sh -o tmpNames.txt tmpMerge.txt
+"$workdir"/scripts/bash/getName.sh -o tmpNames.txt tmpMerge.txt
 
-python3 "$workdir"/scripts/match_to_csv.py tmpFinder.txt tmpMatch.csv
-python3 "$workdir"/scripts/add_name_link_to_search_result.py tmpNames.txt tmpMerge.txt tmpMatch.csv "$outputFile"
+python3 "$workdir"/scripts/python/match_to_csv.py tmpFinder.txt tmpMatch.csv
+python3 "$workdir"/scripts/python/add_name_link_to_search_result.py tmpNames.txt tmpMerge.txt tmpMatch.csv "$outputFile"
 
 rm "$workdir"/tmpMerge.txt
 rm "$workdir"/tmpSearch.txt

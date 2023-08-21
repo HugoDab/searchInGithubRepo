@@ -80,9 +80,12 @@ if [ "$regNum" -eq 2 ]; then
   fileRegexExclude2=":!build/**"
   echo "Results for $stringToSearch and $stringToSearch2" >"$outputFile"
 else
-  stringToSearch="(eth_s|s)ignTypedData"
+  stringToSearch="signTypedData"
   stringToSearch2="eth_sign"
   stringToSearch3="personal_sign"
+  stringToSearch4="signTypedData_V1"
+  stringToSearch5="signTypedData_V3"
+  stringToSearch6="signTypedData_V4"
   fileRegex="*.[tj]s"
   fileRegexExclude=":!node_modules/**"
   fileRegexExclude2=":(attr:!vendored)*.js"
@@ -106,14 +109,23 @@ while read -r repolink; do
   git clone -q "https://:@github.com/$repo" "$workdir/tmpGitRepo"
   cd "$workdir/tmpGitRepo" || continue
   {
-    git grep -I -n -i -o -E -w "$stringToSearch" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch ~~~~~~~~~~~~~~~~~~"
+    git grep -I -n -i -o -E "$stringToSearch" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch2 ~~~~~~~~~~~~~~~~~~"
     git grep -I -n -i -o -E -w "$stringToSearch2" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
   } >>"../$outputFile"
 
   if [ "$regNum" -eq 1 ]; then
-    echo "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" >>"../$outputFile"
-    git grep -I -n -i -o -E -w "$stringToSearch3" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2" >>"../$outputFile"
+    {
+    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch3 ~~~~~~~~~~~~~~~~~~"
+      git grep -I -n -i -o -E -w "$stringToSearch3" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch4 ~~~~~~~~~~~~~~~~~~"
+      git grep -I -n -i -o -E -w "$stringToSearch4" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch5 ~~~~~~~~~~~~~~~~~~"
+      git grep -I -n -i -o -E -w "$stringToSearch5" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch6 ~~~~~~~~~~~~~~~~~~"
+      git grep -I -n -i -o -E -w "$stringToSearch6" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+    } >>"../$outputFile"
   fi
 
   cd "$workdir" || exit 1
