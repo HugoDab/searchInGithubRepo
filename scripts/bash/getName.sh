@@ -6,7 +6,7 @@
 
 Help() {
   # Display Help
-  echo "Write into a file the names of repositories from github links."
+  echo "Write into a file the name of repositories from github links."
   echo
   echo "Syntax: getName [-h|o] repoFile"
   echo "options:"

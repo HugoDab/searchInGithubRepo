@@ -6,7 +6,7 @@
 
 Help() {
   # Display Help
-  echo "Search a list of git repositories."
+  echo "Search for a string inside of all git repositories from an organization."
   echo
   echo "Syntax: searchRepo [-h|o|q] organization"
   echo "options:"

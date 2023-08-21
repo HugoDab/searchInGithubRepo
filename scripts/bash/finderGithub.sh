@@ -6,7 +6,7 @@
 
 Help() {
   # Display Help
-  echo "Search for a string inside every git repositories from list."
+  echo "Search for a string inside every git repository from list."
   echo
   echo "Syntax: finderGithub [-h|j|o|s] repoFile"
   echo "options:"
