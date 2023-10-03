@@ -86,6 +86,7 @@ else
   stringToSearch4="signTypedData_V1"
   stringToSearch5="signTypedData_V3"
   stringToSearch6="signTypedData_V4"
+  stringToSearch7=".signMessage"
   fileRegex="*.[tj]s"
   fileRegexExclude=":!node_modules/**"
   fileRegexExclude2=":(attr:!vendored)*.js"
@@ -117,14 +118,16 @@ while read -r repolink; do
 
   if [ "$regNum" -eq 1 ]; then
     {
-    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch3 ~~~~~~~~~~~~~~~~~~"
+      echo "~~~~~~~~~~~~~~~~~~ $stringToSearch3 ~~~~~~~~~~~~~~~~~~"
       git grep -I -n -i -o -E -w "$stringToSearch3" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
-    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch4 ~~~~~~~~~~~~~~~~~~"
+      echo "~~~~~~~~~~~~~~~~~~ $stringToSearch4 ~~~~~~~~~~~~~~~~~~"
       git grep -I -n -i -o -E -w "$stringToSearch4" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
-    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch5 ~~~~~~~~~~~~~~~~~~"
+      echo "~~~~~~~~~~~~~~~~~~ $stringToSearch5 ~~~~~~~~~~~~~~~~~~"
       git grep -I -n -i -o -E -w "$stringToSearch5" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
-    echo "~~~~~~~~~~~~~~~~~~ $stringToSearch6 ~~~~~~~~~~~~~~~~~~"
+      echo "~~~~~~~~~~~~~~~~~~ $stringToSearch6 ~~~~~~~~~~~~~~~~~~"
       git grep -I -n -i -o -E -w "$stringToSearch6" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+      echo "~~~~~~~~~~~~~~~~~~ $stringToSearch7 ~~~~~~~~~~~~~~~~~~"
+      git grep -I -n -i -o -E -w "$stringToSearch7" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
     } >>"../$outputFile"
   fi
 
