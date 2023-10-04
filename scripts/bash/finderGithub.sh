@@ -86,10 +86,13 @@ else
   stringToSearch4="signTypedData_V1"
   stringToSearch5="signTypedData_V3"
   stringToSearch6="signTypedData_V4"
-  stringToSearch7=".signMessage"
+  stringToSearch7="signMessage"
+  stringToSearchEc="ecrecover"
   fileRegex="*.[tj]s"
+  fileRegexEc="*.sol"
   fileRegexExclude=":!node_modules/**"
   fileRegexExclude2=":(attr:!vendored)*.js"
+  fileRegexExclude2Ec=":!build/**"
   echo "Results for $stringToSearch, $stringToSearch2 and $stringToSearch3" >"$outputFile"
 fi
 
@@ -128,6 +131,8 @@ while read -r repolink; do
       git grep -I -n -i -o -E -w "$stringToSearch6" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
       echo "~~~~~~~~~~~~~~~~~~ $stringToSearch7 ~~~~~~~~~~~~~~~~~~"
       git grep -I -n -i -o -E -w "$stringToSearch7" -- "$fileRegex" "$fileRegexExclude" "$fileRegexExclude2"
+      echo "~~~~~~~~~~~~~~~~~~ $stringToSearchEc ~~~~~~~~~~~~~~~~~~"
+      git grep -I -n -i -o -E -w "$stringToSearchEc" -- "$fileRegexEc" "$fileRegexExclude" "$fileRegexExclude2Ec"
     } >>"../$outputFile"
   fi
 
