@@ -82,7 +82,7 @@ removeFirstLine tmpFinder.txt
 
 "$workdir"/scripts/bash/getName.sh -o tmpNames.txt tmpMerge.txt
 
-python3 "$workdir"/scripts/python/match_to_csv.py tmpFinder.txt tmpMatch.csv
+python3 "$workdir"/scripts/python/finder_github_results_to_csv.py tmpFinder.txt tmpMatch.csv
 python3 "$workdir"/scripts/python/add_name_link_to_search_result.py tmpNames.txt tmpMerge.txt tmpMatch.csv "$outputFile"
 
 rm "$workdir"/tmpMerge.txt

@@ -1,0 +1,1826 @@
+Results for signTypedData, eth_sign and personal_sign
+======================================= ankitkataria/Lottery-DApp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= MineCoinChain/LotteryByETH =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= wangshijun/ethereum-lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= HashFairGames/TheEthereumLottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= rohitsethii/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+public/js/web3.min.js:1:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+public/js/web3.min.js:1:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+public/js/web3.min.js:1:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+public/js/web3.min.js:1:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= mds1/lottery-dapp-template =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+src/ethereum/truffle/contracts/Lottery.sol:1150:ecrecover
+======================================= senacor/SmartContractSlackDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= loki-sama/solidity-lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= paragchirde/vue-ethereum-lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+dist/js/chunk-vendors.acee7759.js:18:eth_sign
+dist/js/chunk-vendors.acee7759.js:45:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+dist/js/chunk-vendors.acee7759.js:66:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+dist/js/chunk-vendors.acee7759.js:18:eth_sign
+dist/js/chunk-vendors.acee7759.js:45:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+dist/js/chunk-vendors.acee7759.js:66:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Parsh/Lottery-DApp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= itxtoledo/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= xieyueshu/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= madhavtripathi05/dapp-lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= jimmychu0807/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= jimmychu0807/lottery-dapp-www =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= strange-labs-uk/ethereum-raffle =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= lifelottery/lifelottery =======================================
+======================================= SwJay/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:379:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:380:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:410:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:422:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:428:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:442:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12016:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12017:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12297:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12298:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/json-rpc-provider.js:168:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/json-rpc-provider.js:169:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:53:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:54:eth_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.cjs.js:1378:eth_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.esm.js:840:eth_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.umd.js:1376:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12299:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12300:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:55:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:56:personal_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.cjs.js:1577:personal_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.esm.js:959:personal_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.umd.js:1575:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+backend/node_modules/_ethers@4.0.27@ethers/abstract-signer.d.ts:7:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/contract.d.ts:35:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/contract.js:49:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/contract.js:50:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:97:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:98:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12012:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:17110:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/providers/json-rpc-provider.d.ts:18:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/providers/json-rpc-provider.js:164:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/wallet.d.ts:24:signMessage
+backend/node_modules/_ethers@4.0.27@ethers/wallet.js:89:signMessage
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:379:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:380:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:410:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:422:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:428:eth_sign
+backend/node_modules/_ethereumjs-util@5.2.0@ethereumjs-util/dist/index.js:442:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12016:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12017:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12297:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12298:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/json-rpc-provider.js:168:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/json-rpc-provider.js:169:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:53:eth_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:54:eth_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.cjs.js:1378:eth_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.esm.js:840:eth_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.umd.js:1376:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12299:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.js:12300:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/dist/ethers.min.js:1:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:55:personal_sign
+backend/node_modules/_ethers@4.0.27@ethers/providers/web3-provider.js:56:personal_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.cjs.js:1577:personal_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.esm.js:959:personal_sign
+backend/node_modules/_web3-core-method@1.0.0-beta.55@web3-core-method/dist/web3-core-method.umd.js:1575:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Cryptolotto/Cryptolotto =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= jimmychu0807/lottery-dapp-truffle =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= 100th-Monkey/TRON-Monkey =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Smartlinkhub/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= svstoll/ethereum-lottery-app =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+ethereum/contracts/oraclizeAPI.sol:1246:ecrecover
+======================================= alexscheitlin/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= HydroBlockchain/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+client/src/utils/web3React.ts:38:signMessage
+client/src/utils/web3React.ts:54:signMessage
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= karthikeya-kotegar/Lottery-Dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= WaykiChain/DAPP-WaykiBet-And =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= maxaleks/lotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= SpasiboKojima/DApp-Lotto =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+contracts/MultiSig.sol:36:ecrecover
+contracts/oraclizeAPI.sol:948:ecrecover
+======================================= OlexandrSai/NEAR--sample-lottery-frontend =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= freechainer/Ethereum_Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= nGoline/ether-lotto =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+web/build/js/app.min.js:1:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+web/build/js/app.min.js:1:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+web/build/js/app.min.js:1:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+web/build/js/app.min.js:1:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= nisib/ethereum-lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= DappsLab/DappsLab-SmartContracts =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+ZKCP.js:11:eth.sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+archivedContracts/IotFirmwareUpdate.sol:177:ecrecover
+archivedContracts/IotFirmwareUpdate.sol:196:ecrecover
+archivedContracts/contracts/utils/cryptography/ECDSA.sol:38:ecrecover
+archivedContracts/contracts/utils/cryptography/ECDSA.sol:62:ecrecover
+archivedContracts/contracts/utils/cryptography/ECDSA.sol:73:ecrecover
+archivedContracts/contracts/utils/cryptography/ECDSA.sol:89:ecrecover
+archivedContracts/contracts/utils/cryptography/ECDSA.sol:153:ecrecover
+archivedContracts/contracts/utils/cryptography/ECDSA.sol:170:ecrecover
+openzeppelin/contracts/utils/cryptography/ECDSA.sol:38:ecrecover
+openzeppelin/contracts/utils/cryptography/ECDSA.sol:62:ecrecover
+openzeppelin/contracts/utils/cryptography/ECDSA.sol:73:ecrecover
+openzeppelin/contracts/utils/cryptography/ECDSA.sol:89:ecrecover
+openzeppelin/contracts/utils/cryptography/ECDSA.sol:153:ecrecover
+openzeppelin/contracts/utils/cryptography/ECDSA.sol:170:ecrecover
+======================================= Zy1920/lottery_dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= link78/plutus-bluesky =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= niyas/lottery-dapp-ethereum =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= xiaoping378/dappswin =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= gyr0tron/Ethereum_Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= EeshanDutta007/Lottery-Blockchain =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Lu1z-Gust4v0/Dapp-Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= cchencool/LuckyYou =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= cislab-yzu/LotteryDApp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= liucuncong/Lottery-eth =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= rounakdatta/eth-lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= berkerol/lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= amalcaraz/nuls-smart-lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= behagoras/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= viannaandreBR/Dapp-Ethereum-Lottery-Contract =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= AnshuJalan/tezos-lottery =======================================
+======================================= yupeng528/tron-dapp-lottery =======================================
+======================================= duyyudus/megaloop-lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= mr-fool/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= tomnyson/lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= thelonehegelian/1_lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= sumitdevtech/smartcontract-lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= gumdropsteve/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= sdardew/lottery-smart-contract =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= jooo0ooo/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= watadarkstar/solidity-lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= WangShayne/lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= gokceoter/piyango =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= annie1004619/lottery-dapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= dmotz/ether-tontine =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= tkddls8848/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Tharinducs/Lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+ethereum/node_modules/ganache-cli/build/cli.node.js:65:signTypedData
+ethereum/node_modules/ganache-cli/build/cli.node.js:65:signTypedData
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:signTypedData
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:signTypedData
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:signTypedData
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:signTypedData
+ethereum/node_modules/ganache-cli/build/lib.node.js:64:signTypedData
+ethereum/node_modules/ganache-cli/build/lib.node.js:64:signTypedData
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/provider.node.js:36:signTypedData
+ethereum/node_modules/ganache-cli/build/provider.node.js:36:signTypedData
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:signTypedData
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:signTypedData
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:signTypedData
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:signTypedData
+ethereum/node_modules/ganache-cli/build/server.node.js:64:signTypedData
+ethereum/node_modules/ganache-cli/build/server.node.js:64:signTypedData
+ethereum/node_modules/ganache-cli/build/server.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/server.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/server.node.js:148:signTypedData
+ethereum/node_modules/ganache-cli/build/server.node.js:148:signTypedData
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+ethereum/node_modules/ethereumjs-util/dist/index.js:379:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:380:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:410:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:422:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:428:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:442:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:2:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:106:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:1:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:105:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:1:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:77:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:1:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:105:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:148:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14139:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14140:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14170:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14182:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14188:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14202:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.js:5340:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.js:5340:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.min.js:2:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/lib/web3/methods/eth.js:214:eth_sign
+ethereum/node_modules/web3-core-helpers/src/formatters.js:152:eth_sign
+ethereum/node_modules/web3-core-method/src/index.js:542:ETH_SIGN
+ethereum/node_modules/web3-core-method/src/index.js:543:eth_sign
+ethereum/node_modules/web3-eth/src/index.js:330:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12493:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12501:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12507:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12516:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:19905:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13150:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13158:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13164:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13173:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21737:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21787:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22321:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.js:5286:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3.js:5286:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3.min.js:2:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/lib/web3/methods/eth.js:207:eth_sign
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:22:eth_sign
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:92:eth_sign
+ethereum/node_modules/web3-provider-engine/test/wallet.js:178:eth_sign
+ethereum/node_modules/web3-provider-engine/util/rpc-cache-utils.js:110:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+ethereum/node_modules/ganache-cli/build/cli.node.js:30:personal_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:29:personal_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:29:personal_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:29:personal_sign
+ethereum/node_modules/web3-core-helpers/src/formatters.js:152:personal_sign
+ethereum/node_modules/web3-eth-personal/src/index.js:125:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21754:signMessage
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21754:signMessage
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21803:signMessage
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22432:signMessage
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22432:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet-ethtx.js:40:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:59:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:59:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:59:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:129:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:157:signMessage
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:158:signMessage
+ethereum/node_modules/web3-provider-engine/zero.js:50:signMessage
+ethereum/node_modules/web3-provider-engine/zero.js:50:signMessage
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+ethereum/node_modules/ethereumjs-util/dist/index.js:379:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:380:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:410:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:422:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:428:eth_sign
+ethereum/node_modules/ethereumjs-util/dist/index.js:442:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:2:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:106:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:eth_sign
+ethereum/node_modules/ganache-cli/build/cli.node.js:149:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:1:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:105:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:1:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:77:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:eth_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:120:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:1:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:105:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:148:eth_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:148:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14139:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14140:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14170:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14182:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14188:eth_sign
+ethereum/node_modules/merkle-patricia-tree/dist/trie.js:14202:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.js:5340:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.js:5340:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.min.js:2:eth_sign
+ethereum/node_modules/truffle-hdwallet-provider/node_modules/web3/lib/web3/methods/eth.js:214:eth_sign
+ethereum/node_modules/web3-core-helpers/src/formatters.js:152:eth_sign
+ethereum/node_modules/web3-core-method/src/index.js:542:ETH_SIGN
+ethereum/node_modules/web3-core-method/src/index.js:543:eth_sign
+ethereum/node_modules/web3-eth/src/index.js:330:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12493:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12501:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12507:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:12516:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ProviderEngine.js:19905:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13150:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13158:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13164:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13173:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21737:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21787:eth_sign
+ethereum/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22321:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.js:5286:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3.js:5286:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/dist/web3.min.js:2:eth_sign
+ethereum/node_modules/web3-provider-engine/node_modules/web3/lib/web3/methods/eth.js:207:eth_sign
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:22:eth_sign
+ethereum/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:92:eth_sign
+ethereum/node_modules/web3-provider-engine/test/wallet.js:178:eth_sign
+ethereum/node_modules/web3-provider-engine/util/rpc-cache-utils.js:110:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+ethereum/node_modules/ganache-cli/build/cli.node.js:30:personal_sign
+ethereum/node_modules/ganache-cli/build/lib.node.js:29:personal_sign
+ethereum/node_modules/ganache-cli/build/provider.node.js:29:personal_sign
+ethereum/node_modules/ganache-cli/build/server.node.js:29:personal_sign
+ethereum/node_modules/web3-core-helpers/src/formatters.js:152:personal_sign
+ethereum/node_modules/web3-eth-personal/src/index.js:125:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= kiraAdi/Blockchain-based-Smart-Contract-Digitized-Lottery-Scheme- =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= charlesarchibong/lottery_contract =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= juanmanavarro/lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= flairxy/day18_lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= jonit-dev/lottery-react-client =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= HigginTown/lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Abinavmoto/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= PratapTyagi/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= UdaySinghBhati12/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Shivam4819/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= dasom222g/lottery-smart-contract =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Kwon1992/LotteryDAPP =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Avi-000-Avi/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= hyeok230/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= dladowitz/lottery =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:410:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:418:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:424:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:433:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35623:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35624:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35654:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35666:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35672:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35686:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36362:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36370:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36376:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36385:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1457:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1465:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1471:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1480:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7098:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7099:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7129:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7141:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7151:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7165:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24650:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24658:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24664:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24673:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35456:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35464:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35470:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35479:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45646:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45647:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45677:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45689:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45699:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45713:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:59659:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66642:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66650:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66656:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66665:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:80901:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:90056:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93190:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93198:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93204:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93213:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1460:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1468:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1474:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1483:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7126:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7138:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7148:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7162:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24592:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24600:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24606:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24615:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33065:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33073:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33079:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33088:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43255:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43256:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43286:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43298:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43308:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43322:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:48113:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55104:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55110:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55119:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:70657:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:79812:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82946:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82954:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82960:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82969:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1460:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1468:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1474:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1483:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7126:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7138:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7148:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7162:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24592:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24600:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24606:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24615:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32955:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32963:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32969:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32978:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43145:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43146:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43176:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43188:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43198:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43212:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:48095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55078:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55086:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55092:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55101:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:70639:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:79794:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82928:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82936:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82942:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82951:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1460:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1468:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1474:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1483:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7126:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7138:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7148:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7162:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24598:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24606:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24612:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24621:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32961:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32969:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32975:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32984:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43151:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43152:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43182:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43194:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43204:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43218:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:48227:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55210:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55218:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55224:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55233:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:70771:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:79926:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83060:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83068:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83074:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83083:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14187:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14188:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14218:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14230:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14236:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14250:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.js:5340:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.js:5340:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.min.js:2:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/lib/web3/methods/eth.js:214:eth_sign
+lottery_solidity/node_modules/web3-core-helpers/src/formatters.js:137:eth_sign
+lottery_solidity/node_modules/web3-core-method/src/index.js:521:ETH_SIGN
+lottery_solidity/node_modules/web3-core-method/src/index.js:522:eth_sign
+lottery_solidity/node_modules/web3-eth/src/index.js:314:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12493:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12501:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12507:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12516:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:19905:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13150:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13158:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13164:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13173:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21737:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21787:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22321:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.js:5286:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3.js:5286:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3.min.js:2:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/lib/web3/methods/eth.js:207:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:22:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:92:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/test/wallet.js:178:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/util/rpc-cache-utils.js:110:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:82591:personal_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:72347:personal_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:72329:personal_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:72461:personal_sign
+lottery_solidity/node_modules/web3-core-helpers/src/formatters.js:137:personal_sign
+lottery_solidity/node_modules/web3-eth-personal/src/index.js:119:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21754:signMessage
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21754:signMessage
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21803:signMessage
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22432:signMessage
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22432:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet-ethtx.js:40:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:59:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:59:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:59:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:129:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:157:signMessage
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:158:signMessage
+lottery_solidity/node_modules/web3-provider-engine/zero.js:50:signMessage
+lottery_solidity/node_modules/web3-provider-engine/zero.js:50:signMessage
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/ethereumjs-block/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/ethereumjs-tx/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:410:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:418:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:424:eth_sign
+lottery_solidity/node_modules/ethereumjs-util/index.js:433:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35623:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35624:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35654:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35666:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35672:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:35686:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36362:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36370:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36376:eth_sign
+lottery_solidity/node_modules/ethereumjs-vm/examples/run-transactions-simple/bundle.js:36385:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1457:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1465:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1471:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:1480:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7098:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7099:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7129:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7141:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7151:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:7165:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24650:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24658:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24664:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:24673:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35456:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35464:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35470:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:35479:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45646:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45647:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45677:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45689:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45699:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:45713:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:59659:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66642:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66650:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66656:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:66665:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:80901:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:90056:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93190:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93198:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93204:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:93213:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1460:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1468:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1474:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:1483:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7126:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7138:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7148:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:7162:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24592:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24600:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24606:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:24615:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33065:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33073:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33079:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:33088:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43255:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43256:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43286:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43298:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43308:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:43322:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:48113:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55104:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55110:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:55119:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:70657:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:79812:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82946:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82954:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82960:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:82969:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1460:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1468:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1474:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:1483:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7126:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7138:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7148:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:7162:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24592:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24600:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24606:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:24615:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32955:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32963:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32969:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:32978:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43145:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43146:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43176:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43188:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43198:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:43212:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:48095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55078:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55086:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55092:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:55101:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:70639:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:79794:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82928:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82936:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82942:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:82951:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1460:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1468:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1474:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:1483:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7095:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7096:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7126:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7138:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7148:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:7162:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24598:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24606:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24612:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:24621:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32961:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32969:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32975:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:32984:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43151:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43152:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43182:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43194:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43204:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:43218:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:48227:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55210:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55218:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55224:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:55233:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:70771:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:79926:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83060:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83068:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83074:eth_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:83083:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14187:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14188:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14218:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14230:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14236:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/dist/trie.js:14250:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/merkle-patricia-tree/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.js:5340:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.js:5340:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/dist/web3.min.js:2:eth_sign
+lottery_solidity/node_modules/truffle-hdwallet-provider/node_modules/web3/lib/web3/methods/eth.js:214:eth_sign
+lottery_solidity/node_modules/web3-core-helpers/src/formatters.js:137:eth_sign
+lottery_solidity/node_modules/web3-core-method/src/index.js:521:ETH_SIGN
+lottery_solidity/node_modules/web3-core-method/src/index.js:522:eth_sign
+lottery_solidity/node_modules/web3-eth/src/index.js:314:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12493:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12501:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12507:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:12516:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ProviderEngine.js:19905:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13150:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13158:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13164:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:13173:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21737:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:21787:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/dist/ZeroClientProvider.js:22321:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:350:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:351:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:381:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:393:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:403:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/ethereumjs-util/index.js:417:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.js:5286:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3-light.min.js:2:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3.js:5286:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/dist/web3.min.js:2:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/node_modules/web3/lib/web3/methods/eth.js:207:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:22:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/subproviders/hooked-wallet.js:92:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/test/wallet.js:178:eth_sign
+lottery_solidity/node_modules/web3-provider-engine/util/rpc-cache-utils.js:110:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+lottery_solidity/node_modules/ganache-cli/build/cli.node.js:82591:personal_sign
+lottery_solidity/node_modules/ganache-cli/build/lib.node.js:72347:personal_sign
+lottery_solidity/node_modules/ganache-cli/build/provider.node.js:72329:personal_sign
+lottery_solidity/node_modules/ganache-cli/build/server.node.js:72461:personal_sign
+lottery_solidity/node_modules/web3-core-helpers/src/formatters.js:137:personal_sign
+lottery_solidity/node_modules/web3-eth-personal/src/index.js:119:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= nntoan1997/lotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+web/build/static/js/main.f2423495.js:2:signTypedData
+web/build/static/js/main.f2423495.js:2:signTypedData
+web/build/static/js/main.f2423495.js:2:signTypedData
+web/build/static/js/main.f2423495.js:2:signTypedData
+web/build/static/js/main.f2423495.js:2:signTypedData
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+web/build/static/js/main.f2423495.js:2:eth_sign
+web/build/static/js/main.f2423495.js:2:eth_sign
+web/build/static/js/main.f2423495.js:2:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+web/build/static/js/main.f2423495.js:2:personal_sign
+web/build/static/js/main.f2423495.js:2:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+web/build/static/js/main.f2423495.js:2:signMessage
+web/build/static/js/main.f2423495.js:2:signMessage
+web/build/static/js/main.f2423495.js:2:signMessage
+web/build/static/js/main.f2423495.js:2:signMessage
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+web/build/static/js/main.f2423495.js:2:eth_sign
+web/build/static/js/main.f2423495.js:2:eth_sign
+web/build/static/js/main.f2423495.js:2:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+web/build/static/js/main.f2423495.js:2:personal_sign
+web/build/static/js/main.f2423495.js:2:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= maxaleks/lotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= HeiniHeo/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= geethubala/LotteryDApp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= ppolo23/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= dayeong918/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= rishabhmthakur2/lotteryDApp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= aliray/luckyones =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= sdardew/lottery-react-app =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= Hemashirisha/LotteryDAPP =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= belotter/belotter =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= it-tash/lotteryWorkshop =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+public/web3/dist/web3-light.js:5387:eth_sign
+public/web3/dist/web3-light.min.js:1:eth_sign
+public/web3/dist/web3.js:5387:eth_sign
+public/web3/dist/web3.min.js:1:eth_sign
+public/web3/lib/web3/methods/eth.js:214:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+public/web3/dist/web3-light.js:5645:personal_sign
+public/web3/dist/web3-light.min.js:1:personal_sign
+public/web3/dist/web3.js:5645:personal_sign
+public/web3/dist/web3.min.js:1:personal_sign
+public/web3/lib/web3/methods/personal.js:62:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+public/web3/example/signature-verifier.js:17:signMessage
+public/web3/example/signature-verifier.js:38:signMessage
+public/web3/example/signature-verifier.js:79:signMessage
+public/web3/example/signature-verifier.js:130:signMessage
+public/web3/example/signature-verifier.js:171:signMessage
+public/web3/example/signature-verifier.js:182:signMessage
+public/web3/example/signature-verifier.js:188:signMessage
+public/web3/example/signature-verifier.js:188:signMessage
+public/web3/example/signature-verifier.js:192:signMessage
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+public/web3/dist/web3-light.js:5387:eth_sign
+public/web3/dist/web3-light.min.js:1:eth_sign
+public/web3/dist/web3.js:5387:eth_sign
+public/web3/dist/web3.min.js:1:eth_sign
+public/web3/example/signature-verifier.js:89:eth.sign
+public/web3/lib/web3/methods/eth.js:214:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+public/web3/dist/web3-light.js:5645:personal_sign
+public/web3/dist/web3-light.min.js:1:personal_sign
+public/web3/dist/web3.js:5645:personal_sign
+public/web3/dist/web3.min.js:1:personal_sign
+public/web3/lib/web3/methods/personal.js:62:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= mpielvitori/lotteryDApp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= dohyungp/lottery-smart-contract =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= AdriGeorge/LotteryDapp =======================================
+======================================= ncs5306/lotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
+======================================= galjms/LotteryDapp =======================================
+======================================= dhruvramdev/LotteryDapp =======================================
+~~~~~~~~~~~~~~~~~~ signTypedData ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth_sign ~~~~~~~~~~~~~~~~~~
+src/js/web3.min.js:2:eth_sign
+~~~~~~~~~~~~~~~~~~ personal_sign ~~~~~~~~~~~~~~~~~~
+src/js/web3.min.js:2:personal_sign
+~~~~~~~~~~~~~~~~~~ signTypedData_V1 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V3 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signTypedData_V4 ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ signMessage ~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~ eth.sign ~~~~~~~~~~~~~~~~~~
+src/js/web3.min.js:2:eth_sign
+~~~~~~~~~~~~~~~~~~ personal.sign ~~~~~~~~~~~~~~~~~~
+src/js/web3.min.js:2:personal_sign
+~~~~~~~~~~~~~~~~~~ ecrecover ~~~~~~~~~~~~~~~~~~
