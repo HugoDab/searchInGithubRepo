@@ -14,6 +14,7 @@ def main(input_file, output_file):
     output_line = ""
     second_arg = False
     not_first_line = False
+    not_first_result = False
 
     while i < number_of_lines:
         line = lines[i]
@@ -23,10 +24,13 @@ def main(input_file, output_file):
             output_line = ""
             second_arg = False
             not_first_line = True
+            not_first_result = False
         elif re.match("~~~~~~~~~~~~~~~~~~", line):
-            output_line += ","
+            if not_first_result:
+                output_line += ","
             second_arg = False
             not_first_line = True
+            not_first_result = True
         elif re.match("Results for", line) or re.match("^ =======================================$", line):
             output_line = ""
             second_arg = False
@@ -39,6 +43,8 @@ def main(input_file, output_file):
             output_line += line_to_keep[0] + ":" + line_to_keep[1]
             not_first_line = True
         i += 1
+
+    output.append(output_line)
 
     with open(output_file, "w") as f:
         f.writelines(output)
