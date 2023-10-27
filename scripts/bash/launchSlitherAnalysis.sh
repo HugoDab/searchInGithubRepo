@@ -8,7 +8,7 @@ Help() {
   # Display Help
   echo "Launch the slither backdoor for every repo in list."
   echo
-  echo "Syntax: launchSlitherAnalysis [-h|o] repoFile"
+  echo "Syntax: launchSlitherAnalysis [-h|o] slitherAnalysisFile"
   echo "options:"
   echo "h     Print this Help."
   echo "o     Output file."
@@ -48,32 +48,57 @@ if [ -z "$outputFile" ]; then
   exit 1
 fi
 
+workdir=$(pwd)
+
+############################################################
+# Installation of slither tool (before first use)          #
+############################################################
+
+# git clone https://github.com/sajadmeisami/slither
+# cd slither || exit 1
+# make dev
+# source ./env/bin/activate
+
 ############################################################
 # Main program                                             #
 ############################################################
 
-workdir=$(pwd)
-
 nbLines=$(wc -l <"$1")
 counter=1
 
+true > "$workdir/$outputFile"
+
 while read -r repolink; do
 
-  repoTemp=$(echo "$repolink" | cut -d '/' -f 4-5)
+  repoLinkTemp=$(echo "$repolink" | cut -d ',' -f 1)
+  repoTemp=$(echo "$repoLinkTemp" | cut -d '/' -f 4-5)
   repo=$(echo "$repoTemp" | cut -d '.' -f 1)
+
+  pathToFileTemp=$(echo "$repolink" | cut -d ',' -f 2)
+  pathToFile=$(echo "$pathToFileTemp" | cut -d ':' -f 1)
 
   echo "======================================="
   echo "Searching in $repo ~ ($counter/$nbLines)"
 
-  echo "======================================= $repo =======================================" >>"$outputFile"
+  echo "======================================= $repo || $pathToFile =======================================" >>"$workdir/$outputFile"
 
-  git clone -q "https://:@github.com/$repo" "$workdir/tmpGitRepo"
-  cd "$workdir/tmpGitRepo" || continue
+  git clone -q "https://:@github.com/$repo" "$workdir/tmpGitRepo$nbLines$counter"
+  cd "$workdir/tmpGitRepo$nbLines$counter" || continue
 
-  solVersionLine=$(grep -m 1 "solidity" <"$(find . -name \*.sol | head -n 1)")
-  solVersion=${solVersionLine##*^}
-  solc-select install "$solVersion"
-  solc-select use "$solVersion"
-  slither . --detect backdoor
+  solFile=$(find . -name \*.sol | head -n 1)
+  if [ -n "$solFile" ]; then
+    solVersionLine=$(grep -m 1 "solidity" <"$solFile")
+    solVersion=${solVersionLine##* }
+    solVersionTemp=${solVersion##*^}
+    solVersionFinal=${solVersionTemp%;*}
+    solc-select install "$solVersionFinal" >/dev/null
+    solc-select use "$solVersionFinal"
+    slither "$pathToFile" --detect backdoor --json "temp$nbLines$counter.json" --solc-disable-warnings
+    jq -r ".results.detectors[].description" "temp$nbLines$counter.json">> "$workdir/$outputFile"
+  fi
+
+  cd "$workdir" || exit 1
+  rm -rf "$workdir/tmpGitRepo$nbLines$counter"
+  ((counter++))
 
 done <"$1"
