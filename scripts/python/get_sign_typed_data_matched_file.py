@@ -14,7 +14,7 @@ def main(input_file, output_file):
 
     while i < number_of_lines:
         line = lines[i].split(",")
-        if line[3] or line[7] or line[8]:
+        if len(line) > 11 and line[12]:
             output.append(line[1])
         i += 1
 

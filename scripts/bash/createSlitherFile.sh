@@ -6,9 +6,9 @@
 
 Help() {
   # Display Help
-  echo "Launch the slither backdoor for every repo in list."
+  echo "Create a slither file from the repository list and the finderGithub results."
   echo
-  echo "Syntax: launchSlitherAnalysis [-h|o] repoFile resultFile"
+  echo "Syntax: createSlitherFile [-h|o] repoFile resultFile"
   echo "options:"
   echo "h     Print this Help."
   echo "o     Output file."

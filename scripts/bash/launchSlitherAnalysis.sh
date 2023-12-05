@@ -6,7 +6,7 @@
 
 Help() {
   # Display Help
-  echo "Launch the slither backdoor for every repo in list."
+  echo "Launch the slither backdoor for every repo in the given list."
   echo
   echo "Syntax: launchSlitherAnalysis [-h|o] slitherAnalysisFile"
   echo "options:"
@@ -85,14 +85,17 @@ while read -r repolink; do
   git clone -q "https://:@github.com/$repo" "$workdir/tmpGitRepo$nbLines$counter"
   cd "$workdir/tmpGitRepo$nbLines$counter" || continue
 
-  solFile=$(find . -name \*.sol | head -n 1)
-  if [ -n "$solFile" ]; then
-    solVersionLine=$(grep -m 1 "solidity" <"$solFile")
+  #solFile=$(find . -name \*.sol | head -n 1)
+  if [ -n "$pathToFile" ]; then
+    #cd "${pathToFile%/*}" || continue
+    solVersionLine=$(grep -m 1 "solidity" <"$pathToFile")
     solVersion=${solVersionLine##* }
     solVersionTemp=${solVersion##*^}
-    solVersionFinal=${solVersionTemp%;*}
+    solVersionTemp2=${solVersionTemp##*=}
+    solVersionFinal=${solVersionTemp2%;*}
     solc-select install "$solVersionFinal" >/dev/null
     solc-select use "$solVersionFinal"
+    #slither "${pathToFile##*/}" --detect backdoor --json "temp$nbLines$counter.json" --solc-disable-warnings
     slither "$pathToFile" --detect backdoor --json "temp$nbLines$counter.json" --solc-disable-warnings
     jq -r ".results.detectors[].description" "temp$nbLines$counter.json">> "$workdir/$outputFile"
   fi

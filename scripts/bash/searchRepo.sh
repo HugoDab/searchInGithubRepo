@@ -56,7 +56,7 @@ fi
 # Main program                                             #
 ############################################################
 
-githubTokenHeader="Authorization: Bearer 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"
+githubTokenHeader="Authorization: Bearer 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"
 
 echo "All results for Github repositories $1" | tee "$outputFile"
 
